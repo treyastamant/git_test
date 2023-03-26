@@ -1,1 +1,2 @@
-This is Treya's first git project! (not really, just practicing with command line and git) 
+This is Treya's first git project! 
+Hello Odin!
